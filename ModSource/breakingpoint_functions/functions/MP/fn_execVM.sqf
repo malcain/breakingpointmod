@@ -1,1 +1,0 @@
-["Function BIS_fnc_execVM has been disabled."] call bis_fnc_error;
